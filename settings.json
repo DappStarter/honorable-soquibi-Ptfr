@@ -1,0 +1,15 @@
+{
+    "name": "Villcaso",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/react": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/asset_value_tracking/core-token/name": "HouseCoin",
+        "/category/asset_value_tracking/core-token/symbol": "HSC",
+        "/category/asset_value_tracking/core-token/decimals": "6",
+        "/category/asset_value_tracking/core-token/supply": "0"
+    }
+}
